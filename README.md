@@ -1,12 +1,11 @@
 # 📘 English Dictionary Web App
 
-A simple and clean English dictionary web app that fetches word definitions and pronunciations using the [Free Dictionary API](https://dictionaryapi.dev/).
+A simple and clean English dictionary web app that fetches word definitions and pronunciations.
 
 ## 🚀 Features
 - Search for any English word
 - Get its meaning
-- Listen to pronunciation (if available)
-- Beautiful and responsive UI
+- Listen to pronunciation
 
 ## 🛠 Tech Stack
 - HTML5
@@ -14,11 +13,9 @@ A simple and clean English dictionary web app that fetches word definitions and 
 - JavaScript (Vanilla)
 - [Dictionary API](https://dictionaryapi.dev/)
 
-## 📸 Screenshot
-![Screenshot](screenshot.png) <!-- optional -->
 
 ## 🌐 Live Demo
-[Click here to try it live](#) <!-- you can update this with GitHub Pages link -->
+http://127.0.0.1:5500/index.html (#)
 
 ## 📂 How to Use
 
